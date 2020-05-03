@@ -1,1 +1,3 @@
-# profile
+# profile 
+
+## utilize bootstrap for layout
